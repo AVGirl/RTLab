@@ -1,0 +1,2 @@
+@echo off
+C:\Windows\System32\cmd.exe /K powershell.exe -ExecutionPolicy Bypass  -NoExit -Command "cd C:\Users\vivei\Desktop\rtlab\Evasion\Invoke-Obfuscation; Import-Module .\Invoke-Obfuscation.psd1; Invoke-Obfuscation"
