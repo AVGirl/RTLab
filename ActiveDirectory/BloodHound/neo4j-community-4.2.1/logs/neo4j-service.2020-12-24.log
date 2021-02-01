@@ -1,0 +1,18 @@
+[2020-12-24 18:43:47] [info]  [ 4640] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-12-24 18:43:48] [info]  [ 4640] Running Service 'neo4j'...
+[2020-12-24 18:43:48] [info]  [ 5484] Starting service...
+[2020-12-24 18:43:48] [error] [ 5484] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2020-12-24 18:43:48] [error] [ 5484] The system cannot find the path specified.
+[2020-12-24 18:43:48] [error] [ 5484] ServiceStart returned 1.
+[2020-12-24 18:43:48] [error] [ 5484] The system cannot find the path specified.
+[2020-12-24 18:43:48] [info]  [ 4640] Run service finished.
+[2020-12-24 18:43:48] [info]  [ 4640] Apache Commons Daemon procrun finished.
+[2020-12-24 18:55:41] [info]  [ 4808] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-12-24 18:55:41] [info]  [ 4808] Running Service 'neo4j'...
+[2020-12-24 18:55:41] [info]  [ 5632] Starting service...
+[2020-12-24 18:55:41] [error] [ 5632] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2020-12-24 18:55:41] [error] [ 5632] The system cannot find the path specified.
+[2020-12-24 18:55:41] [error] [ 5632] ServiceStart returned 1.
+[2020-12-24 18:55:41] [error] [ 5632] The system cannot find the path specified.
+[2020-12-24 18:55:41] [info]  [ 4808] Run service finished.
+[2020-12-24 18:55:41] [info]  [ 4808] Apache Commons Daemon procrun finished.

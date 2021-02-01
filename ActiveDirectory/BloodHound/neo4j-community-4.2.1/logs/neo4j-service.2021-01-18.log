@@ -1,0 +1,9 @@
+[2021-01-18 13:01:12] [info]  [ 4832] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-18 13:01:12] [info]  [ 4832] Running Service 'neo4j'...
+[2021-01-18 13:01:12] [info]  [ 5828] Starting service...
+[2021-01-18 13:01:12] [error] [ 5828] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2021-01-18 13:01:12] [error] [ 5828] The system cannot find the path specified.
+[2021-01-18 13:01:12] [error] [ 5828] ServiceStart returned 1.
+[2021-01-18 13:01:12] [error] [ 5828] The system cannot find the path specified.
+[2021-01-18 13:01:12] [info]  [ 4832] Run service finished.
+[2021-01-18 13:01:12] [info]  [ 4832] Apache Commons Daemon procrun finished.

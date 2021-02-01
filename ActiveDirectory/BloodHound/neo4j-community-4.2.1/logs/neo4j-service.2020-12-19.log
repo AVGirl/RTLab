@@ -1,0 +1,9 @@
+[2020-12-19 17:21:26] [info]  [ 4688] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2020-12-19 17:21:26] [info]  [ 4688] Running Service 'neo4j'...
+[2020-12-19 17:21:26] [info]  [ 6160] Starting service...
+[2020-12-19 17:21:26] [error] [ 6160] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2020-12-19 17:21:26] [error] [ 6160] The system cannot find the path specified.
+[2020-12-19 17:21:26] [error] [ 6160] ServiceStart returned 1.
+[2020-12-19 17:21:26] [error] [ 6160] The system cannot find the path specified.
+[2020-12-19 17:21:26] [info]  [ 4688] Run service finished.
+[2020-12-19 17:21:26] [info]  [ 4688] Apache Commons Daemon procrun finished.

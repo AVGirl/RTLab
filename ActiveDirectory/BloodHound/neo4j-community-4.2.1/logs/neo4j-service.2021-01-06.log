@@ -1,0 +1,27 @@
+[2021-01-06 12:28:49] [info]  [ 5140] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-06 12:28:49] [info]  [ 5140] Running Service 'neo4j'...
+[2021-01-06 12:28:49] [info]  [ 5404] Starting service...
+[2021-01-06 12:28:49] [error] [ 5404] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2021-01-06 12:28:49] [error] [ 5404] The system cannot find the path specified.
+[2021-01-06 12:28:49] [error] [ 5404] ServiceStart returned 1.
+[2021-01-06 12:28:49] [error] [ 5404] The system cannot find the path specified.
+[2021-01-06 12:28:49] [info]  [ 5140] Run service finished.
+[2021-01-06 12:28:49] [info]  [ 5140] Apache Commons Daemon procrun finished.
+[2021-01-06 14:33:23] [info]  [ 3996] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-06 14:33:23] [info]  [ 3996] Running Service 'neo4j'...
+[2021-01-06 14:33:23] [info]  [ 6052] Starting service...
+[2021-01-06 14:33:23] [error] [ 6052] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2021-01-06 14:33:23] [error] [ 6052] The system cannot find the path specified.
+[2021-01-06 14:33:23] [error] [ 6052] ServiceStart returned 1.
+[2021-01-06 14:33:23] [error] [ 6052] The system cannot find the path specified.
+[2021-01-06 14:33:23] [info]  [ 3996] Run service finished.
+[2021-01-06 14:33:23] [info]  [ 3996] Apache Commons Daemon procrun finished.
+[2021-01-06 14:48:45] [info]  [ 4244] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2021-01-06 14:48:46] [info]  [ 4244] Running Service 'neo4j'...
+[2021-01-06 14:48:46] [info]  [ 5956] Starting service...
+[2021-01-06 14:48:46] [error] [ 5956] Failed creating Java 'C:\Program Files\Java\jdk-11.0.9\bin\server\jvm.dll'.
+[2021-01-06 14:48:46] [error] [ 5956] The system cannot find the path specified.
+[2021-01-06 14:48:46] [error] [ 5956] ServiceStart returned 1.
+[2021-01-06 14:48:46] [error] [ 5956] The system cannot find the path specified.
+[2021-01-06 14:48:46] [info]  [ 4244] Run service finished.
+[2021-01-06 14:48:46] [info]  [ 4244] Apache Commons Daemon procrun finished.
