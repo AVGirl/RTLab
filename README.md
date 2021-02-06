@@ -143,5 +143,3 @@
     -------------------------
             rt-scripts      
 -----------------------------
-   <h1> Contributing </h1>
-Pull request & suggestions are always welcome.
